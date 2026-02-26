@@ -29,4 +29,5 @@ Authentication: Go to Data Source Settings, select Edit Permissions, and use you
 Transformation: Ensure the sales_date in the Fact table is set to Date type to activate the relationship with the Calendar table.
 
 💡**Strategic Recommendations**
-Inventory: Increase Q4 stock levels for fitness prod
+Inventory: Increase Q4 stock levels for fitness products by 40% based on historical October peaks.
+Marketing: Prioritize spend on the Eastern Seaboard and Southern regions where sales density is highest.
